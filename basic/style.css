@@ -1,9 +1,9 @@
-    .red-button {
-    background-color: red;
-    color: white;
+    .color-button {
+    background-color: yellow;
+    color: black;
     }
     
-    .blue-button {
-        background: cyan;
+    .color2-button {
+        background: orange;
         color:black;
-    }
+    } /*Comment in css*/
